@@ -1,4 +1,6 @@
-<h1 align="center">Welcome! I'm Lucas Chamma Nahas 🤓</h1>
+<h1 align="center">Welcome! 🤓</h1>
+<h1 align="center">Welcome! I'm Lucas Chamma Nahas</h1>
+<tr>
 <h3 align="center">I'm a Web Development and Computer Science student with entry-level knowledge of programming and experience with startup environments. I have worked and built projects with small teams, and I am looking for a role where I can expand my knowledge and continue to learn from more experienced people.
 </h3>
 
@@ -29,12 +31,6 @@
       align="center"
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="morato-dev"
-  /></a>
-  <a href="https://discord.gg/morato#4067" target="blank"
-    ><img
-      align="center"
-      src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
-      alt="morato#4067"
   /></a>
 </p>
 
