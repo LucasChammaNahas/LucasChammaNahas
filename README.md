@@ -1,8 +1,8 @@
 <!-- Bio -->
 ---
 <h1 align="center">
-  Welcome! 🤓<br>
-  My name is Lucas,
+  WELCOME! 🤓
+  <br>
 </h1>
 
 <h3 align="center">
