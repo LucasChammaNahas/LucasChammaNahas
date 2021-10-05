@@ -177,7 +177,6 @@
 
 
 <!-- Miscellaneous Skills -->
----
 <!-- <h2 align="left">My Miscellaneous Skills:</h2>
 <p align="left">
   <img
@@ -261,25 +260,23 @@
 
 
 <!-- Stats cards -->
+---
 <!-- <div style="display: flex; flex-flow: column"> -->
-  <p>
+  <p align="center">
     <img
-      align="center"
       src="https://github-readme-streak-stats.herokuapp.com/?user=lucaschammanahas&theme=gruvbox"
       alt=""
     />
   </p>
   <!-- <div style="display: flex; flex-flow: row"> -->
-    <p>
-      &nbsp;<img
-        align="center"
+    <p align="center">
+      <img
         src="https://github-readme-stats.vercel.app/api?username=lucaschammanahas&show_icons=true&locale=en&theme=gruvbox"
         alt=""
       />
     </p>
-    <p>
+    <p align="center">
       <img
-        align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=lucaschammanahas&show_icons=true&locale=en&layout=compact&theme=gruvbox"
         alt=""
       />
