@@ -3,13 +3,15 @@
 <h1 align="center">Welcome! 🤓</h1>
 <h2 align="center">My name is Lucas Chamma Nahas</h2>
 
-<h3 align="center">I'm a Web Development <br>and Computer Science student</h3>
-<h3 align="center">with entry-level knowledge of programming</h3>
-<h3 align="center">and relative experience with startup environments.</h3>
-<br>
-<h3 align="center">I have worked and built projects with small teams,</h3>
-<h3 align="center">and I am looking for a role where I can expand my knowledge</h3>
-<h3 align="center">and continue to learn from more experienced people.</h3>
+<h3 align="center">
+  I'm a Web Development and Computer Science student<br>
+  with entry-level knowledge of programming<br>
+  and relative experience with startup environments.<br><br>
+  
+  I have worked and built projects with small teams,<br>
+  and I am looking for a role where I can expand my knowledge<br>
+  and continue to learn from more experienced people.
+</h3>
 
 <p align="center">
   <img
