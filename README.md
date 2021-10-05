@@ -5,6 +5,13 @@
   <br>
 </h1>
 
+<p align="right">
+  <img
+    src="https://komarev.com/ghpvc/?username=lucaschammanahas&label=Views&color=blueviolet&style=flat"
+    alt="Visitor Counter"
+  />
+</p>
+
 <p align="center">
   <img
     src="https://github.com/LucasChammaNahas/LucasChammaNahas/blob/main/img/programmer.png"
@@ -244,14 +251,7 @@
 
 
 
----
-<!-- Visitor counter -->
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=lucaschammanahas&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Visitor Counter"
-  />
-</p>
+
 
 
 
@@ -261,14 +261,12 @@
 
 <!-- Stats cards -->
 ---
-<!-- <div style="display: flex; flex-flow: column"> -->
   <p align="center">
     <img
       src="https://github-readme-streak-stats.herokuapp.com/?user=lucaschammanahas&theme=gruvbox"
       alt=""
     />
   </p>
-  <!-- <div style="display: flex; flex-flow: row"> -->
     <p align="center">
       <img
         src="https://github-readme-stats.vercel.app/api?username=lucaschammanahas&show_icons=true&locale=en&theme=gruvbox"
@@ -281,5 +279,3 @@
         alt=""
       />
     </p>
-  <!-- </div> -->
-<!-- </div> -->
