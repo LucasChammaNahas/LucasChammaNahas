@@ -55,8 +55,8 @@
 
 <!-- Contact Info -->
 ---
-<h2 align="left">Contact me via:</h2>
-<p align="left">
+<h2 align="center">Contact me via:</h2>
+<p align="center">
   <a href="https://linkedin.com/in/lucas-chamma-nahas" target="blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -80,8 +80,8 @@
 
 <!-- Frontend Skills -->
 ---
-<h2 align="left">My Frontend Skills:</h2>
-<p align="left">
+<h2 align="center">My Frontend Skills:</h2>
+<p align="center">
   <img
     src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
     alt="HTML5"
@@ -130,8 +130,8 @@
 
 <!-- Backend Skills -->
 ---
-<h2 align="left">My Backend Skills:</h2>
-<p align="left">
+<h2 align="center">My Backend Skills:</h2>
+<p align="center">
   <img
     src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
     alt="PHP"
@@ -152,8 +152,8 @@
 
 <!-- Colaboration Skills -->
 ---
-<h2 align="left">My Collaboration Skills:</h2>
-<p align="left">
+<h2 align="center">My Collaboration Skills:</h2>
+<p align="center">
   <img
     src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
     alt="Github"
@@ -186,8 +186,8 @@
 
 <!-- On Going Skills -->
 ---
-<h2 align="left">Still Learning:</h2>
-<p align="left">
+<h2 align="center">Still Learning:</h2>
+<p align="center">
   <img
     src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
     alt="Node js"
@@ -216,7 +216,7 @@
 
 <!-- Stats cards -->
 ---
-<h2 align="left">Some Statistics:</h2>
+<h2 align="center">Some Statistics:</h2>
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=lucaschammanahas&theme=gruvbox"
