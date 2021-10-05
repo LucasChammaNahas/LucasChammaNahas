@@ -31,13 +31,12 @@
 <p align="left">
   <a href="https://linkedin.com/in/lucas-chamma-nahas" target="blank">
     <img
-      align="center"
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="linkedin"
     />
   </a>
-  <br>
-  <a href="" target="blank">
+  <br><br>
+  <a href="mailto:lucasnahas@gmail.com" target="blank">
     <img
       align="center"
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
