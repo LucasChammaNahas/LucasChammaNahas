@@ -31,11 +31,13 @@
 <!-- Trophies -->
 ---
 <p align="left">
+<br>
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
-      src="https://github-profile-trophy.vercel.app/?username=lucaschammanahas&title=Joined2020,Commit,PullRequest,Followers,Repositories&theme=dracula"
+      src="https://github-profile-trophy.vercel.app/?username=lucaschammanahas&title=Joined2020,Commit,PullRequest,Followers,Repositories&theme=gruvbox"
       alt="Trophies"
   /></a>
+  <br>
 </p>
 <!-- Trophies -->
 
@@ -267,23 +269,22 @@
   <p>
     <img
       align="center"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=lucaschammanahas&theme=dark"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=lucaschammanahas&theme=gruvbox"
       alt=""
     />
   </p>
-
   <div style="display: flex; flex-flow: row">
     <p>
       &nbsp;<img
         align="center"
-        src="https://github-readme-stats.vercel.app/api?username=lucaschammanahas&show_icons=true&locale=en&theme=tokyonight"
+        src="https://github-readme-stats.vercel.app/api?username=lucaschammanahas&show_icons=true&locale=en&theme=gruvbox"
         alt=""
       />
     </p>
     <p>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=lucaschammanahas&show_icons=true&locale=en&layout=compact&theme=tokyonight"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=lucaschammanahas&show_icons=true&locale=en&layout=compact&theme=gruvbox"
         alt=""
       />
     </p>
