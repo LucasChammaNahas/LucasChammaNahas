@@ -179,7 +179,7 @@
 
 <!-- Miscellaneous Skills -->
 ---
-<h2 align="left">My Miscellaneous Skills:</h2>
+<!-- <h2 align="left">My Miscellaneous Skills:</h2>
 <p align="left">
   <img
     src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
@@ -194,7 +194,7 @@
     alt="Google Sheets"
   />
 </p>
-<br><br><br>
+<br><br><br> -->
 <!-- Miscellaneous Skills -->
 
 
