@@ -9,8 +9,8 @@
     alt="Programmer"
   />
 </p>
------
 
+---
 <!-- Visitor counter -->
 <p align="left">
   <img
