@@ -2,7 +2,6 @@
 ---
 <h1 align="center">
   WELCOME! 🤓
-  <br>
 </h1>
 
 <p align="right">
@@ -29,7 +28,7 @@
   and I am looking for a role where I can expand my knowledge<br>
   and continue to learn from more experienced people.
 </h3>
-<br><br>
+<br>
 <!-- Bio -->
 
 
