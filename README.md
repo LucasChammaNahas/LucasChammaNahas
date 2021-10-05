@@ -261,7 +261,7 @@
 
 
 <!-- Stats cards -->
-<div style="display: flex; flex-flow: column">
+<!-- <div style="display: flex; flex-flow: column"> -->
   <p>
     <img
       align="center"
@@ -269,7 +269,7 @@
       alt=""
     />
   </p>
-  <div style="display: flex; flex-flow: row">
+  <!-- <div style="display: flex; flex-flow: row"> -->
     <p>
       &nbsp;<img
         align="center"
@@ -284,5 +284,5 @@
         alt=""
       />
     </p>
-  </div>
-</div>
+  <!-- </div> -->
+<!-- </div> -->
