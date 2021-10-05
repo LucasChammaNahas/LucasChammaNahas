@@ -1,6 +1,6 @@
 <h1 align="center">Welcome! 🤓</h1>
 <h2 align="center">My name is Lucas Chamma Nahas</h2>
-<h3 align="center">I'm a Web Development and Computer Science student with entry-level knowledge of programming and experience with startup environments. I have worked and built projects with small teams, and I am looking for a role where I can expand my knowledge and continue to learn from more experienced people.
+<h3 align="center">I'm a Web Development and Computer Science student with entry-level knowledge of programming and relative experience with startup environments. I have worked and built projects with small teams, and I am looking for a role where I can expand my knowledge and continue to learn from more experienced people.
 </h3>
 
 <!-- Visitor counter -->
