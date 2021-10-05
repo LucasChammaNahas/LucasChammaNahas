@@ -22,7 +22,7 @@
   and I am looking for a role where I can expand my knowledge<br>
   and continue to learn from more experienced people.
 </h3>
-<br><br><br>
+<br><br>
 <!-- Bio -->
 
 
@@ -56,7 +56,7 @@
       alt="linkedin"
     />
   </a>
-  <br><br>
+  <br>
   <a href="mailto:lucasnahas@gmail.com" target="blank">
     <img
       align="center"
@@ -65,7 +65,7 @@
     />
   </a>  
 </p>
-<br><br><br>
+<br><br>
 <!-- Contact Info -->
 
 
