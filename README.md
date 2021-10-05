@@ -47,6 +47,7 @@
     />
   </a>  
 </p>
+<br><br><br><br>
 <!-- Contact Info -->
 
 
@@ -95,8 +96,9 @@
   <img
     src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"
     alt="Material UI"
-  /><br><br>
+  />
 </p>
+<br><br><br><br>
 <!-- Frontend Skills -->
 
 
@@ -116,8 +118,9 @@
   <img
     src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white  "
     alt="MongoDB"
-  /><br><br>
+  />
 </p>
+<br><br><br><br>
 <!-- Backend Skills -->
 
 
@@ -149,8 +152,9 @@
   <img
     src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"
     alt="Microsoft Teams"
-  /><br><br>
+  />
 </p>
+<br><br><br><br>
 <!-- Colaboration Skills -->
 
 
@@ -174,8 +178,9 @@
   <img
     src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"
     alt="Google Sheets"
-  /><br><br>
+  />
 </p>
+<br><br><br><br>
 <!-- Miscellaneous Skills -->
 
 
@@ -203,8 +208,9 @@
   <img
     src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
     alt="Heroku"
-  /><br><br>
+  />
 </p>
+<br><br><br><br>
 <!-- On Going Skills -->
 
 
