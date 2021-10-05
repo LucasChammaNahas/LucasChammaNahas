@@ -34,7 +34,7 @@
   <br>
   <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"> -->
     <img
-      src="https://github-profile-trophy.vercel.app/?username=lucaschammanahas&title=Joined2020,Commit,PullRequest,Followers,Repositories&theme=gruvbox"
+      src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox"
       alt="Trophies"
     />
   <!-- </a> -->
