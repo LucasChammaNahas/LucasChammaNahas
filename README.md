@@ -47,7 +47,7 @@
     />
   </a>  
 </p>
-<br><br><br><br>
+<br><br><br>
 <!-- Contact Info -->
 
 
@@ -55,6 +55,7 @@
 
 
 <!-- Frontend Skills -->
+---
 <h2 align="left">My Frontend Skills:</h2>
 <p align="left">
   <img
@@ -98,13 +99,14 @@
     alt="Material UI"
   />
 </p>
-<br><br><br><br>
+<br><br><br>
 <!-- Frontend Skills -->
 
 
 
 
 <!-- Backend Skills -->
+---
 <h2 align="left">My Backend Skills:</h2>
 <p align="left">
   <img
@@ -120,7 +122,7 @@
     alt="MongoDB"
   />
 </p>
-<br><br><br><br>
+<br><br><br>
 <!-- Backend Skills -->
 
 
@@ -154,13 +156,14 @@
     alt="Microsoft Teams"
   />
 </p>
-<br><br><br><br>
+<br><br><br>
 <!-- Colaboration Skills -->
 
 
 
 
 <!-- Miscellaneous Skills -->
+---
 <h2 align="left">My Miscellaneous Skills:</h2>
 <p align="left">
   <img
@@ -180,7 +183,7 @@
     alt="Google Sheets"
   />
 </p>
-<br><br><br><br>
+<br><br><br>
 <!-- Miscellaneous Skills -->
 
 
@@ -210,7 +213,7 @@
     alt="Heroku"
   />
 </p>
-<br><br><br><br>
+<br><br><br>
 <!-- On Going Skills -->
 
 
