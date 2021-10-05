@@ -1,8 +1,8 @@
-
+<!-- Bio -->
 ---
 <h1 align="center">
   Welcome! 🤓<br>
-  My name is Lucas Chamma Nahas
+  My name is Lucas,
 </h1>
 
 <h3 align="center">
@@ -16,19 +16,43 @@
 </h3>
 
 <p align="center">
+  <br>
   <img
     src="https://github.com/LucasChammaNahas/LucasChammaNahas/blob/main/img/programmer.png"
-    width="300"
+    width="250"
     alt="Programmer"
   />
 </p>
+<!-- Bio -->
+
+<!-- Contact Info -->
+---
+<h2 align="left">Contact me via:</h2>
+<p align="left">
+  <a href="https://linkedin.com/in/lucas-chamma-nahas" target="blank">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="linkedin"
+    />
+  </a>
+  <br>
+  <a href="" target="blank">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="gmail"
+    />
+  </a>  
+</p>
+<!-- Contact Info -->
 
 ---
 <!-- Visitor counter -->
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=lucaschammanahas&label=Profile%20views&color=0e75b6&style=flat"
-    alt="lucaschammanahas"
+    alt="Visitor Counter"
   />
 </p>
 
@@ -37,29 +61,11 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
       src="https://github-profile-trophy.vercel.app/?username=lucaschammanahas&title=Joined2020,Commit,PullRequest,Followers,Repositories&theme=dracula"
-      alt="lucaschammanahas"
+      alt="Trophies"
   /></a>
 </p>
 
-- ♟️ My portfolio **https://lucaschammanahas.github.io/**
 
-<!-- Contact Info -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/lucas-chamma-nahas" target="blank"
-    ><img
-      align="center"
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="linkedin"
-  /></a>
-    <a href="" target="blank"
-    ><img
-      align="center"
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="gmail"
-  /></a>
-  
-</p>
 
 <!-- Language and Tools -->
 <h3 align="left">My skills</h3>
