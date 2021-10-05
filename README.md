@@ -116,7 +116,6 @@
     alt="Material UI"
   />
 </p>
-<br>
 <!-- Frontend Skills -->
 
 
@@ -129,17 +128,16 @@
   <img
     src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
     alt="PHP"
-  /><br><br>
+  /><br>
   <img
     src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
     alt="MySQL"
-  /><br><br>
+  /><br>
   <img
     src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white  "
     alt="MongoDB"
   />
 </p>
-<br><br><br>
 <!-- Backend Skills -->
 
 
@@ -151,29 +149,28 @@
   <img
     src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
     alt="Github"
-  /><br><br>
+  /><br>
   <img
     src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
     alt="Git"
-  /><br><br>
+  /><br>
   <img
     src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"
     alt="Slack"
-  /><br><br>
+  /><br>
   <img
     src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"
     alt="Trello"
-  /><br><br>
+  /><br>
   <img
     src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
     alt="Discord"
-  /><br><br>
+  /><br>
   <img
     src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"
     alt="Microsoft Teams"
   />
 </p>
-<br><br><br>
 <!-- Colaboration Skills -->
 
 
@@ -208,25 +205,24 @@
   <img
     src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
     alt="Node js"
-  /><br><br>
+  /><br>
   <img
     src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
     alt="Express js"
-  /><br><br>
+  /><br>
   <img
     src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"
     alt="Docker"
-  /><br><br>
+  /><br>
   <img
     src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
     alt="Netlify"
-  /><br><br>
+  /><br>
   <img
     src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
     alt="Heroku"
   />
 </p>
-<br><br><br>
 <!-- On Going Skills -->
 
 
