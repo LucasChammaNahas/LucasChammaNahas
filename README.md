@@ -149,6 +149,7 @@
 
 
 
+
 <!-- Colaboration Skills -->
 ---
 <h2 align="left">My Collaboration Skills:</h2>
@@ -183,27 +184,6 @@
 
 
 
-<!-- Miscellaneous Skills -->
-<!-- <h2 align="left">My Miscellaneous Skills:</h2>
-<p align="left">
-  <img
-    src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
-    alt="Ubuntu"
-  /><br><br>
-  <img
-    src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"
-    alt="Office"
-  /><br><br>
-  <img
-    src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"
-    alt="Google Sheets"
-  />
-</p>
-<br><br><br> -->
-<!-- Miscellaneous Skills -->
-
-
-
 <!-- On Going Skills -->
 ---
 <h2 align="left">Still Learning:</h2>
@@ -233,49 +213,25 @@
 
 
 
-        	
-          
-   
-
-
-  
-    	
-      
-          
-          	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!-- Stats cards -->
 ---
-  <p align="center">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=lucaschammanahas&theme=gruvbox"
-      alt=""
-    />
-  </p>
-    <p align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=lucaschammanahas&show_icons=true&locale=en&theme=gruvbox"
-        alt=""
-      />
-    </p>
-    <p align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=lucaschammanahas&show_icons=true&locale=en&layout=compact&theme=gruvbox"
-        alt=""
-      />
-    </p>
+<h2 align="left">Some Statistics:</h2>
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=lucaschammanahas&theme=gruvbox"
+    alt=""
+  />
+</p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=lucaschammanahas&show_icons=true&locale=en&theme=gruvbox"
+    alt=""
+  />
+</p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=lucaschammanahas&show_icons=true&locale=en&layout=compact&theme=gruvbox"
+    alt=""
+  />
+</p>
