@@ -58,70 +58,67 @@
 <p align="left">
   <img
     src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-    alt="html5"
-  /><br>
+    alt="HTML5"
+  /><br><br>
   <img
     src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-    alt="css3"
-  /><br>
+    alt="CSS3"
+  /><br><br>
   <img
     src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
-    alt="javascript"
-  /><br>
+    alt="JavaScript"
+  /><br><br>
   <img
     src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-    alt="react"
-  /><br>
-  <img
-    src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
-    alt="figma"
-  /><br>
-  <img
-    src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"
-    alt="jest"
-  /><br>
-  <img
-    src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
-    alt="linux"
-  /><br>
-  <img
-    src="https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white"
-    alt="Materialize"
-  /><br>
-  <img
-    src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
-    alt="PHP"
-  /><br>
-  <img
-    src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"
-    alt="Material UI"
-  /><br>
+    alt="React"
+  /><br><br>
   <img
     src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"
     alt="React Router"
-  /><br>
+  /><br><br>
   <img
     src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
     alt="Redux"
-  /><br>
+  /><br><br>
+  <img
+    src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"
+    alt="Jest"
+  /><br><br>
+  <img
+    src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
+    alt="Figma"
+  /><br><br>
+  <img
+    src="https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white"
+    alt="Materialize"
+  /><br><br>
+  <img
+    src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"
+    alt="Material UI"
+  /><br><br>
+</p>
+<!-- Frontend Skills -->
+
+
+
+
+<!-- Backend Skills -->
+<h2 align="left">My Backend Skills:</h2>
+<p align="left">
+  <img
+    src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
+    alt="PHP"
+  /><br><br>
   <img
     src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
     alt="MySQL"
-  /><br>
+  /><br><br>
   <img
     src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white  "
     alt="MongoDB"
-  /><br>
-  <img
-    src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"
-    alt="Office"
-  /><br>
-  <img
-    src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"
-    alt="Google Sheets"
-  /><br>
+  /><br><br>
 </p>
-<!-- Frontend Skills -->
+<!-- Backend Skills -->
 
 
 
@@ -132,30 +129,54 @@
   <img
     src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
     alt="Github"
-  /><br>
+  /><br><br>
   <img
     src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
     alt="Git"
-  /><br>
+  /><br><br>
   <img
     src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"
     alt="Slack"
-  /><br>
+  /><br><br>
   <img
     src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"
     alt="Trello"
-  /><br>
+  /><br><br>
   <img
     src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
     alt="Discord"
-  /><br>
+  /><br><br>
   <img
     src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"
     alt="Microsoft Teams"
-  /><br>
+  /><br><br>
 </p>
 <!-- Colaboration Skills -->
 
+
+
+
+<!-- Miscellaneous Skills -->
+<h2 align="left">My Miscellaneous Skills:</h2>
+<p align="left">
+  <img
+    src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
+    alt="Ubuntu"
+  /><br><br>
+  <img
+    src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
+    alt="Redux"
+  /><br><br>
+  <img
+    src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"
+    alt="Office"
+  /><br><br>
+  <img
+    src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"
+    alt="Google Sheets"
+  /><br><br>
+</p>
+<!-- Miscellaneous Skills -->
 
 
 
@@ -166,23 +187,23 @@
   <img
     src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
     alt="Node js"
-  /><br>
+  /><br><br>
   <img
     src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
     alt="Express js"
-  /><br>
+  /><br><br>
   <img
     src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"
     alt="Docker"
-  /><br>
+  /><br><br>
   <img
     src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
     alt="Netlify"
-  /><br>
+  /><br><br>
   <img
     src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
     alt="Heroku"
-  /><br>
+  /><br><br>
 </p>
 <!-- On Going Skills -->
 
