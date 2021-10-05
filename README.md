@@ -6,10 +6,9 @@
 </h1>
 
 <p align="center">
-  <br>
   <img
     src="https://github.com/LucasChammaNahas/LucasChammaNahas/blob/main/img/programmer.png"
-    width="200"
+    width="150"
     alt="Programmer"
   />
 </p>
