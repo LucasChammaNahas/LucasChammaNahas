@@ -65,7 +65,6 @@
     />
   </a>  
 </p>
-<br>
 <!-- Contact Info -->
 
 
