@@ -24,6 +24,10 @@
 </h3>
 <!-- Bio -->
 
+
+
+
+
 <!-- Contact Info -->
 ---
 <h2 align="left">Contact me via:</h2>
@@ -45,6 +49,163 @@
 </p>
 <!-- Contact Info -->
 
+
+
+
+
+<!-- Frontend Skills -->
+<h2 align="left">My Frontend Skills:</h2>
+<p align="left">
+  <img
+    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+    alt="html5"
+  /><br>
+  <img
+    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+    alt="css3"
+  /><br>
+  <img
+    src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+    alt="javascript"
+  /><br>
+  <img
+    src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+    alt="react"
+  /><br>
+  <img
+    src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
+    alt="figma"
+  /><br>
+  <img
+    src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"
+    alt="jest"
+  /><br>
+  <img
+    src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
+    alt="linux"
+  /><br>
+  <img
+    src="https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white"
+    alt="Materialize"
+  /><br>
+  <img
+    src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
+    alt="PHP"
+  /><br>
+  <img
+    src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"
+    alt="Material UI"
+  /><br>
+  <img
+    src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"
+    alt="React Router"
+  /><br>
+  <img
+    src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
+    alt="Redux"
+  /><br>
+  <img
+    src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
+    alt="MySQL"
+  /><br>
+  <img
+    src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white  "
+    alt="MongoDB"
+  /><br>
+  <img
+    src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"
+    alt="Office"
+  /><br>
+  <img
+    src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"
+    alt="Google Sheets"
+  /><br>
+</p>
+<!-- Frontend Skills -->
+
+
+
+<!-- Colaboration Skills -->
+---
+<h2 align="left">My Collaboration Skills:</h2>
+<p align="left">
+  <img
+    src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+    alt="Github"
+  /><br>
+  <img
+    src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
+    alt="Git"
+  /><br>
+  <img
+    src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"
+    alt="Slack"
+  /><br>
+  <img
+    src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"
+    alt="Trello"
+  /><br>
+  <img
+    src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
+    alt="Discord"
+  /><br>
+  <img
+    src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"
+    alt="Microsoft Teams"
+  /><br>
+</p>
+<!-- Colaboration Skills -->
+
+
+
+
+<!-- On Going Skills -->
+---
+<h2 align="left">Still learning:</h2>
+<p align="left">
+  <img
+    src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
+    alt="Node js"
+  /><br>
+  <img
+    src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
+    alt="Express js"
+  /><br>
+  <img
+    src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"
+    alt="Docker"
+  /><br>
+  <img
+    src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
+    alt="Netlify"
+  /><br>
+  <img
+    src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
+    alt="Heroku"
+  /><br>
+</p>
+<!-- On Going Skills -->
+
+
+
+        	
+          
+   
+
+
+  
+    	
+      
+          
+          	
+
+
+
+
+
+
+
+
 ---
 <!-- Visitor counter -->
 <p align="left">
@@ -65,70 +226,7 @@
 
 
 
-<!-- Language and Tools -->
-<h3 align="left">My skills</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
-      alt="bootstrap"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-      alt="css3"
-    />
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
-      alt="figma"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-      alt="html5"
-    />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img
-      src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
-      alt="javascript"
-    />
-  </a>
-  <a href="https://jestjs.io" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"
-      alt="jest"
-    />
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"
-      alt="linux"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"
-      alt="python"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-      alt="react"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
-      alt="tailwind"
-    />
-  </a>
-</p>
+
 
 <!-- Currently Learning -->
 <h3>What i'm currently studying</h3>
