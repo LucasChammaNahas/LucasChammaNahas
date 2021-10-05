@@ -30,14 +30,14 @@
 
 <!-- Trophies -->
 ---
-<p align="left">
+<p align="center">
 <br>
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
       src="https://github-profile-trophy.vercel.app/?username=lucaschammanahas&title=Joined2020,Commit,PullRequest,Followers,Repositories&theme=gruvbox"
       alt="Trophies"
   /></a>
-  <br>
+  <br><br>
 </p>
 <!-- Trophies -->
 
