@@ -4,6 +4,8 @@
 </h3>
 <img
   src="https://github.com/LucasChammaNahas/LucasChammaNahas/blob/main/img/programmer.png"
+  width="400"
+  align="center"
   alt="Programmer"
 />
 <tr>
