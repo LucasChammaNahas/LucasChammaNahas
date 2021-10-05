@@ -215,7 +215,7 @@
 
 <!-- Stats cards -->
 ---
-<h2 align="center">Some Statistics:</h2>
+<h2 align="center">Some Statistics:d</h2>
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=lucaschammanahas&theme=gruvbox"
