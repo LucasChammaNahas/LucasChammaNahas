@@ -54,7 +54,7 @@
 
 <!-- Contact Info -->
 ---
-<h2 align="center">Contact me via:</h2>
+<h2 align="center">Contact Me Via:</h2>
 <p align="center">
   <a href="https://linkedin.com/in/lucas-chamma-nahas" target="blank">
     <img
