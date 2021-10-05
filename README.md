@@ -22,7 +22,22 @@
   and I am looking for a role where I can expand my knowledge<br>
   and continue to learn from more experienced people.
 </h3>
+<br><br><br>
 <!-- Bio -->
+
+
+
+
+<!-- Trophies -->
+---
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"
+    ><img
+      src="https://github-profile-trophy.vercel.app/?username=lucaschammanahas&title=Joined2020,Commit,PullRequest,Followers,Repositories&theme=dracula"
+      alt="Trophies"
+  /></a>
+</p>
+<!-- Trophies -->
 
 
 
@@ -171,10 +186,6 @@
     alt="Ubuntu"
   /><br><br>
   <img
-    src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
-    alt="Redux"
-  /><br><br>
-  <img
     src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"
     alt="Office"
   /><br><br>
@@ -190,7 +201,7 @@
 
 <!-- On Going Skills -->
 ---
-<h2 align="left">Still learning:</h2>
+<h2 align="left">Still Learning:</h2>
 <p align="left">
   <img
     src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
@@ -245,61 +256,19 @@
   />
 </p>
 
-<!-- Trophies -->
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=lucaschammanahas&title=Joined2020,Commit,PullRequest,Followers,Repositories&theme=dracula"
-      alt="Trophies"
-  /></a>
-</p>
 
 
 
 
 
-<!-- Currently Learning -->
-<h3>What i'm currently studying</h3>
-<p>
-  <a href="">
-    <img
-      src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
-      alt="mysql"
-    />
-  </a>
-  <a href="">
-    <img
-      src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
-      alt="mongodb"
-    />
-  </a>
-  <a href="">
-    <img
-      src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
-      alt="typescript"
-    />
-  </a>
-  <a href="">
-    <img
-      src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
-      alt="expressjs"
-    />
-  </a>
-  <a href="">
-    <img
-      src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
-      alt="nodejs"
-    />
-  </a>
-</p>
 
 <!-- Stats cards -->
 <div style="display: flex; flex-flow: column">
   <p>
     <img
       align="center"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=caiomorato&theme=dark"
-      alt="caiomorato"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=lucaschammanahas&theme=dark"
+      alt=""
     />
   </p>
 
@@ -307,15 +276,15 @@
     <p>
       &nbsp;<img
         align="center"
-        src="https://github-readme-stats.vercel.app/api?username=caiomorato&show_icons=true&locale=en&theme=tokyonight"
-        alt="caiomorato"
+        src="https://github-readme-stats.vercel.app/api?username=lucaschammanahas&show_icons=true&locale=en&theme=tokyonight"
+        alt=""
       />
     </p>
     <p>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=caiomorato&show_icons=true&locale=en&layout=compact&theme=tokyonight"
-        alt="caiomorato"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=lucaschammanahas&show_icons=true&locale=en&layout=compact&theme=tokyonight"
+        alt=""
       />
     </p>
   </div>
