@@ -5,6 +5,15 @@
   <br>
 </h1>
 
+<p align="center">
+  <br>
+  <img
+    src="https://github.com/LucasChammaNahas/LucasChammaNahas/blob/main/img/programmer.png"
+    width="200"
+    alt="Programmer"
+  />
+</p>
+
 <h3 align="center">
   I'm a Web Development and Computer Science student<br>
   with entry-level knowledge of programming<br>
@@ -14,15 +23,6 @@
   and I am looking for a role where I can expand my knowledge<br>
   and continue to learn from more experienced people.
 </h3>
-
-<p align="center">
-  <br>
-  <img
-    src="https://github.com/LucasChammaNahas/LucasChammaNahas/blob/main/img/programmer.png"
-    width="250"
-    alt="Programmer"
-  />
-</p>
 <!-- Bio -->
 
 <!-- Contact Info -->
